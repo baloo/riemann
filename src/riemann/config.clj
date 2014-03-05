@@ -11,6 +11,7 @@
             [riemann.transport.websockets :as websockets]
             [riemann.transport.sse        :as sse]
             [riemann.transport.graphite   :as graphite]
+            [riemann.transport.dtrace     :as dtrace]
             [riemann.repl]
             [riemann.index]
             [riemann.logging :as logging]

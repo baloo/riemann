@@ -67,4 +67,5 @@
 ;  :aot [riemann.bin]
   :main riemann.bin
   :codox {:output-dir "site/api"}
+  :resource-paths ["lib/dtrace.jar"]
 )
